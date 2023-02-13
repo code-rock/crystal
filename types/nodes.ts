@@ -1,0 +1,1 @@
+export type TNodes = Array<[number, number, number]>;
